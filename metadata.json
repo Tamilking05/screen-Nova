@@ -1,0 +1,6 @@
+{
+  "name": "ScreenNova",
+  "description": "ScreenNova - HD Screen Recorder & Game Capture Studio. Record smooth 60 FPS gameplay, tutorials, and video calls with internal audio, facecam overlay, and instant playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
